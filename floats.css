@@ -1,0 +1,129 @@
+/**
+ First Homework
+ **/
+
+* {
+  box-sizing: border-box;
+  text-align: center;
+}
+
+body {
+  
+}
+
+header {
+  padding: 20px;
+  color: #333;
+  background: #ccc;
+  border: 1px solid blue;
+  border-left-width: 50px;
+  border-top-width: 20px;
+  border-right-width: 50px;
+  border-bottom-width: 0px;
+}
+
+section {
+  padding: 20px;
+  color: #333;
+  background: #ccc;
+  border: 1px solid blue;
+  border-left-width: 50px;
+  border-top-width: 10px;
+  border-bottom-width: 0px;
+  border-right-width: 50px;
+
+}
+
+#left {
+  padding: 20px;
+  color: #333;
+  background: #ccc;
+  border: 1px solid blue;
+  border-left-width: 50px;
+  border-top-width: 20px;
+  border-bottom-width: 20px;
+  border-right-width: 50px;
+}
+
+#middle {
+  padding: 20px;
+  color: #333;
+  background: #ccc;
+  border: 1px solid blue;
+  border-left-width: 50px;
+  border-top-width: 20px;
+  border-bottom-width: 20px;
+  border-right-width: 50px;
+  padding-bottom: 350px;
+  
+}
+
+#right {
+  float: right;
+  padding: 20px;
+  color: #333;
+  background: #ccc;
+  border: 1px solid blue;
+  padding-left: 200px;
+  padding-right: 200px;
+  padding-bottom: 150px;
+  padding-top: 50px;
+  width: 49%;
+  border-left-width: 50px;
+  border-top-width: 20px;
+  border-bottom-width: 20px;
+  border-right-width: 50px;
+  padding-bottom: 320px;
+}
+
+#full {
+  float: left;
+  padding: 20px;
+  color: #333;
+  background: #ccc;
+  border: 1px solid blue;
+  padding-left: 150px;
+  padding-right: 150px;
+  width: 49%;
+  border-left-width: 20px;
+  border-top-width: 20px;
+  border-bottom-width: 20px;
+  border-right-width: 20px;
+
+}
+
+#division {
+  padding: 20px;
+  color: #333;
+  background: #ccc;
+  border: 1px solid blue;
+  border-left-width: 20px;
+  border-top-width: 0px;
+  border-bottom-width: 20px;
+  border-right-width: 20px;
+}
+
+aside {
+  padding: 20px;
+  color: #333;
+  background: #ccc;
+  border: 1px solid blue;
+  border-left-width: 20px;
+  border-top-width: 20px;
+  border-bottom-width: 10px;
+  border-right-width: 20px;
+
+
+}
+
+footer {
+  padding: 20px;
+  color: #333;
+  background: #ccc;
+  border: 1px solid blue;
+  clear: both;	
+  border-left-width: 50px;
+  border-top-width: 20px;
+  border-bottom-width: 20px;
+  border-right-width: 50px;
+}
